@@ -1,0 +1,42 @@
+header {
+    background-color: dodgerblue;
+    color: firebrick;
+    margin-top: -55px;
+    font-family: 'Lobster', cursive;
+}
+body {
+    background-color: dodgerblue;
+}
+Main {
+    background-color: dodgerblue;
+    font-family: 'Lobster', cursive;
+    width: 500px;
+    border-radius:10px;
+}
+Img {
+    border-radius: 10px;
+}
+.post {
+    margin-bottom: 48px;
+    padding: 10px;
+}
+.user-info {
+    background-color: black;
+    padding: 3px;
+    border-radius: 10px;
+    color: aqua;
+ 
+}
+.comments {
+    background-color: black;
+    padding: 3px;
+    border-radius: 10px;
+    color: aqua;
+  
+}
+.actions {
+    background-color: black;
+    padding: 3px;
+    border-radius: 10px;
+    color: aqua;
+}
